@@ -2,7 +2,8 @@
 
 MP4 Splitter is a desktop application that allows you to easily split MP4 video files into multiple segments. It provides a user-friendly interface for defining split points and extracting segments from your videos.
 
-![MP4 Splitter Screenshot](https://example.com/screenshot.png)
+![image](https://github.com/user-attachments/assets/21c9d570-673c-4b96-bd44-3795802cf2f7)
+
 
 ## Features
 
@@ -23,7 +24,7 @@ MP4 Splitter is a desktop application that allows you to easily split MP4 video 
 
 1. Clone this repository or download the source code:
    ```
-   git clone https://github.com/yourusername/mp4_splitter.git
+   git clone https://github.com/SS-ekow/python_mp4_splitter_desktop_app.git
    cd mp4_splitter
    ```
 
@@ -94,9 +95,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Add your changes
 4. Submit a pull request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
@@ -104,8 +103,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [MoviePy](https://zulko.github.io/moviepy/) for video processing capabilities
 - [FFmpeg](https://ffmpeg.org/) for the underlying video processing engine
 
-## Version History
 
-See the [CHANGELOG.md](CHANGELOG.md) file for a detailed history of changes.
-
-Current version: 0.1.2
